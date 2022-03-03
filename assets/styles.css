@@ -21,6 +21,7 @@
     flex-wrap: wrap;
 }
 
+
 /* header and navigation css */
 header {
     padding: 20px;
@@ -39,6 +40,10 @@ header h1 {
 header a {
     text-decoration: none;
     color: white;
+}
+
+header a:hover {
+    color: #8ae833
 }
 
 header nav {
@@ -85,11 +90,13 @@ header nav ul li a {
 }
 
 .about {
-    
+    font-size: large;
+    padding: 20px;
+    line-height: 2.0;
 }
 
-.about div {
-    
+.about li {
+   
 }
 
 .about h3 {
