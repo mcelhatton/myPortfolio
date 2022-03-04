@@ -139,10 +139,6 @@ aside {
     font-size: 35px; 
 }
 
-.projects-first-row {
-
-}
-
 .projects-second-row {
     display: flex;
     justify-content: space-between;
@@ -169,8 +165,6 @@ aside {
     padding-bottom: 10px;
 }
 
-
-
 /* contact section */
 .contact {
     padding: 10px;
@@ -189,3 +183,9 @@ aside {
     text-align: center;
     padding: 60px;
 }
+
+@media screen and (max-width: 768px) {
+    .about {
+      flex-direction: column;
+    }
+  }
