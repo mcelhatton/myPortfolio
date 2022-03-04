@@ -11,3 +11,10 @@ Thank you for taking a look!
 Technologies used:
 HTML
 CSS
+
+## 
+
+For questions or more information you can reach me at:
+
+p. 555-555-5555
+e. myemail@mycompany.com
