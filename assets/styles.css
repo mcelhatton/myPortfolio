@@ -63,6 +63,8 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 1.55vw;
 }
+
+
 /* hero css */
 .hero {
     background-image: url(../assets/images/911Turbo1.jpeg);
@@ -83,6 +85,7 @@ header nav ul li a {
     align-items: space-around;
     line-height: 2.0;
 }
+
 
 /* about section */
 .about {
@@ -122,6 +125,7 @@ aside {
     border: 2px;
     border-color: #5f5f5f;
 }
+
 
 /* portfolio section */
 .portfolio {
@@ -184,6 +188,7 @@ aside {
     padding: 60px;
 }
 
+/* media queries */
 @media screen and (max-width: 768px) {
     .about {
       flex-direction: column;
