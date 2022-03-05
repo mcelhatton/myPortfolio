@@ -194,4 +194,7 @@ aside {
     .about {
       flex-direction: column;
     }
+    .about div {
+        width: 100%;
+    }
   }
