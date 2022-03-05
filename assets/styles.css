@@ -90,11 +90,12 @@ header nav ul li a {
 /* about section */
 .about {
     display: flex;
-}
-
-.about {
     padding: 20px;
     line-height: 2.0;
+}
+
+.about div {
+    padding: 20px;
 }
 
 .bio-image {
@@ -193,6 +194,7 @@ aside {
 @media screen and (max-width: 768px) {
     .about {
       flex-direction: column;
+      padding-left: 60px;
     }
     .about div {
         width: 100%;
