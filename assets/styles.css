@@ -104,6 +104,7 @@ header nav ul li a {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .bio-image img {
     width: 50%;
